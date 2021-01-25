@@ -1,0 +1,14 @@
+id: room-page
+
+fields:
+  pageTitle: Rooms
+placeholders:
+  jss-navbar:
+    - componentName: Navbar
+  jss-main:
+    - componentName: Hero
+      fields:
+        title: Test
+        subtitle: Sub title test 
+        buttontext: Back
+        buttonurl: /

@@ -1,0 +1,8 @@
+id: endless_hiking
+displayName: Endless Hiking
+
+template: service_template
+fields: 
+  title: Endless Hiking 22
+  serviceIcon: /Images/services/hiking.jpg
+  serviceInfo: This is a sample info about cocktail
